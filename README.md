@@ -37,7 +37,7 @@ Make sure these tools are installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sway-config.git
+   git clone https://github.com/NCSci-Tech/sway-config.git
 
     Copy the config file to your Sway directory:
 
