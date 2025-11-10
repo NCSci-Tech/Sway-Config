@@ -56,12 +56,13 @@ Resize mode	<kbd>Mod</kbd> + <kbd>r</kbd>
 Lock screen	<kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>x</kbd>
 Screenshot	<kbd>Print</kbd> / <kbd>Shift</kbd>+<kbd>Print</kbd>
 Exit Sway	<kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>
-Notes
 
-    The $mod key is set to the Super (Windows) key.
+## Notes
 
-    Adjust colors, keybindings, and preferred apps to fit your workflow.
+The $mod key is set to the Super (Windows) key.
 
-    For full configuration reference, see:
+Adjust colors, keybindings, and preferred apps to fit your workflow.
 
-man 5 sway
+For full configuration reference, see:
+
+      man 5 sway
