@@ -1,0 +1,49 @@
+[window]
+padding.x = 8
+padding.y = 8
+decorations = "none"
+opacity = 1.0
+
+[font]
+size = 8.0
+builtin_box_drawing = false
+
+[font.offset]
+x = 0
+y = 0
+
+[font.normal]
+family = "DejaVu Sans Mono"
+style = "Book"
+
+[font.bold]
+family = "DejaVu Sans Mono"
+style = "Bold"
+
+[font.italic]
+family = "DejaVu Sans Mono"
+style = "Oblique"
+
+[colors.primary]
+background = "#000000"
+foreground = "#f8f8f2"
+
+[colors.normal]
+black   = "#000000"
+red     = "#ff5555"
+green   = "#50fa7b"
+yellow  = "#f1fa8c"
+blue    = "#6272a4"
+magenta = "#ff79c6"
+cyan    = "#8be9fd"
+white   = "#bfbfbf"
+
+[colors.bright]
+black   = "#4d4d4d"
+red     = "#ff6e6e"
+green   = "#69ff94"
+yellow  = "#ffffa5"
+blue    = "#d6acff"
+magenta = "#ff92df"
+cyan    = "#a4ffff"
+white   = "#ffffff"
