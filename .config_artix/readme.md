@@ -2,7 +2,6 @@
 
 Artix Linux with OpenRC, Sway WM, and a minimal black terminal aesthetic.
 
----
 
 ## File Structure
 
@@ -18,7 +17,6 @@ Artix Linux with OpenRC, Sway WM, and a minimal black terminal aesthetic.
 
 ```
 
----
 
 ## Keybindings
 
@@ -45,7 +43,6 @@ Artix Linux with OpenRC, Sway WM, and a minimal black terminal aesthetic.
 
 Focus and move with `Mod+h/j/k/l` (vim keys).
 
----
 
 ## Workspaces
 
@@ -57,7 +54,6 @@ Focus and move with `Mod+h/j/k/l` (vim keys).
 | 4:media | Media |
 | 5:misc | Misc |
 
----
 
 ## Waybar Modules
 
@@ -70,13 +66,11 @@ Focus and move with `Mod+h/j/k/l` (vim keys).
 | Volume | Cyan | PulseAudio sink volume |
 | Clock | Purple | Date + time |
 
----
 
----
 
 ## Notes
 
-- Wifi is managed by **ConnMan** only — do not enable `net.wlan0` or `wpa_supplicant` as separate OpenRC services or they will conflict
+- Wifi is managed by ConnMan only - do not enable `net.wlan0` or `wpa_supplicant` as separate OpenRC services or they will conflict
 - User configs in `~/.config/` always override system configs in `/etc/xdg/`
 - Sway reload (`Mod+Shift+c`) restarts Waybar automatically
 - Lock screen activates after 5 min idle, display off after 10 min
