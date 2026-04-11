@@ -1,6 +1,6 @@
 # Sway Configuration
 
-A clean and functional configuration for the [Sway](https://swaywm.org) Wayland compositor - optimized for productivity, minimalism, and Vim-style navigation.
+A clean and functional configuration for the [Sway](https://swaywm.org) Wayland compositor.
 
 ---
 
@@ -29,21 +29,6 @@ Make sure these tools are installed:
 - `pamixer`, `brightnessctl`, `grim`, `slurp`, `wl-copy`
 
 ---
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/NCSci-Tech/sway-config.git
-
-    Copy the config file to your Sway directory:
-
-mkdir -p ~/.config/sway
-cp sway-config/config ~/.config/sway/config
-
-Restart Sway or reload the config:
-
-    swaymsg reload
 
 Keybindings Overview
 Action	Shortcut
